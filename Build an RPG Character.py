@@ -1,3 +1,5 @@
+# Build an RPG Character
+
 full_dot = '●'
 empty_dot = '○'
 
